@@ -18,5 +18,5 @@ Seguir aprendiendo y aplicando mis conocimientos para crecer en el ámbito del *
 ---
 
 ## Contacto
-- [LinkedIn](https://www.linkedin.com/in/camilo-guevara-584737334/)  
+- [LinkedIn](https://www.linkedin.com/in/camilo-guevara-778a80385/)  
 - Aquí en *GitHub*
